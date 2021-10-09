@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab01</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="click_me">Click me!</string>
+    <string name="vote">Vote</string>
+    <string name="progress">progress</string>
+</resources>
